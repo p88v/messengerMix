@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "545559779112",
+    "project_id": "messangermix-fb0f1",
+    "storage_bucket": "messangermix-fb0f1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545559779112:android:1bea2a0b693dea9f55621d",
+        "android_client_info": {
+          "package_name": "com.example.messangermix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_rObfmB__lRRa4ypcxisxRPRdOrAu7kw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
